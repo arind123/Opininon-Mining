@@ -1,4 +1,4 @@
-# arinML2
+# Opinion Mining
 
 Problem Statement
 The data set contains opinions of 38 different people on the following question:
